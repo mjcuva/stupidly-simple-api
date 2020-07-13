@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
-      - uses: gkoberger/github-readme-sync@master
+      - uses: readmeio/github-readme-sync@2.0.0
         with:
           readme-oas-key: iGbc86z8upNw2yCuGdumZyN8Guadm3W1:yvtbjt3oeub8
            
